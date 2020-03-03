@@ -1,3 +1,11 @@
+#/////////////////////////////////////////////////////////////////////////////
+# OS generated files
+#/////////////////////////////////////////////////////////////////////////////
+
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
 # Built application files
 *.apk
 *.ap_
@@ -28,12 +36,3 @@ proguard/
 .gradle
 .idea
 build
-<<<<<<< HEAD
-/.idea/
-
-
-.idea/misc.xml
-=======
-.DS_Store
-
-/app/.gitignore
